@@ -12,7 +12,7 @@ To use:
 3.) You can test with any .json lottie, in this repo i used account.json.
 
 
-🥖 _-_ 
+🥖 _-_  
 
 
 
